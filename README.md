@@ -23,6 +23,6 @@
 Converted example with 4/4 test notes (no song)
 ![example1](examples/Test_44th.png)
 
-Converted example for error handling, red notes are to close to each other, red letters indicate notes outside the musicbox range.
+Converted example for error handling, red notes are to close to each other, red letters indicate notes outside the musicbox range, you have to shift them in your input midi file
 ![example2](examples/Test_ErrorHandling.png)
 

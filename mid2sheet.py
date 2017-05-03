@@ -13,6 +13,7 @@
 #   Bugs
 #     - No whitespace in path/to/script allowed
 #       pdfjam and rm will not work, see subprocess.call()
+#     - exits if input/output folder not exists, better create output folder
 #
 #
 # Useful links:
